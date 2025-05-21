@@ -5,3 +5,4 @@ st.write(
     "Kang Dedi Barrack Obama"
 )
 st.image("IMG_20250519_090627.jpg", widht=200) 
+st.image("IMG_20250219_101505.jpg", widht=200) 
